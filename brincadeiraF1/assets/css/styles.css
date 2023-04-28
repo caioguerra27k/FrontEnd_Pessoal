@@ -1,0 +1,49 @@
+
+
+body{
+    background-image: url(../images/bandeiraAz.jpeg);
+    opacity: 50;
+    /* background-position: inherit;
+    background-repeat: no-repeat;
+    background-position-y: -1111px;
+    background-position-x: -1022px; */
+}
+
+ol{color: rgb(255, 255, 255);
+    border-radius: 1%;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+    font-family: 'formula1-display-bold', sans-serif;
+}
+  
+    
+
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+    border-radius: 2.5%; 
+    font-family: 'formula1-display-bold', sans-serif;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87); 
+    border-radius: 2.5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#b2{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.87); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#a1{
+     color: rgb(169, 58, 216);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
