@@ -8,6 +8,7 @@
 body{
     background-image: url(../images/bandeiraAz.jpeg);
     opacity: 50;
+    background-size: 1500px;
     /* background-position: inherit;
     background-repeat: no-repeat;
     background-position-y: -1111px;
@@ -17,7 +18,7 @@ body{
 ol{color: rgb(255, 255, 255);
     border-radius: 1%;
     font-size: 20px;
-    text-align: center;
+    margin-left: 10px;
     background-color: rgba(0, 0, 0, 0.87);
     font-family:"formula1-display-bold-bold"
 }
@@ -49,4 +50,10 @@ p{
      color: rgb(169, 58, 216);
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+ margin-left: 10px;
+}
+a{
+    color: white;
 }
